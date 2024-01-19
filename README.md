@@ -25,8 +25,7 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
  <img align="center" alt="html5" src="https://aleen42.github.io/badges/src/photoshop.svg">
  
-    </div><br>
-
+   
 ## Qualificações
 
 🔸 APLICAÇÃO CONTÍNUA
